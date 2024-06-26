@@ -24,7 +24,7 @@ My journey in the realm of cybersecurity began with an insatiable curiosity abou
 I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and anyone interested in the digital defense realm. Feel free to reach out:
 
 - 🐦 Twitter: [@MrHackeric](https://twitter.com/MrHackeric)
-- 💼 LinkedIn: [Mr. Hackeric](https://www.linkedin.com/in/mr-hackeric/)
+- 💼 LinkedIn: [Mr. Hackeric](https://www.linkedin.com/in/MrHackeric/)
 
 #### Join the Cybersecurity Journey! 🚀🌐
 
