@@ -1,129 +1,170 @@
-<!-- Animated Typing Header -->
+````markdown
+<!-- MATRIX TERMINAL HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Karimi+Muriithi+Eric;Cybersecurity+Analyst;SOC+%7C+Android+Security+%7C+Threat+Detection;Defensive+Security+Engineer;Open+to+International+Remote+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=karimi@cybersec:~$+whoami;Karimi+Muriithi+Eric;Cybersecurity+Analyst+%7C+SOC+Engineer;Android+Security+Researcher;Remote-Ready+Defensive+Security+Professional" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=3"/>
+</p>
+
+# `mrhackeric@github:~$ profile --init`
+
+```bash
+> Name: Karimi Muriithi Eric
+> Role: Cybersecurity Analyst
+> Focus: SOC | Android Security | Threat Detection | Offensive Security
+> Location: Nairobi, Kenya
+````
+
+---
+
+# `mrhackeric@github:~$ cat qualifications.txt`
+
+```bash
+• BSc Computer Science
+• ISC² Certified in Cybersecurity (CC)
+• Huawei ICT Global Finalist
+• Cisco Certifications:
+    - Introduction to Cybersecurity
+    - Security & Connectivity Support
+    - Digital Safety & Security Awareness
+    - Endpoint Security
+    - Cyber Threat Management
+• Experience in:
+    - Data analytics & structured reporting
+    - System monitoring under national ICT initiatives
+    - Dataset extraction, cleaning & anomaly detection
+```
+
+---
+
+# `mrhackeric@github:~$ skills --enumerate`
+
+## Core Security Domains
+
+```
+[+] Security Operations (SOC)
+    - Log analysis & anomaly detection
+    - Incident triage & escalation
+    - SLA-driven monitoring
+    - Threat pattern identification
+
+[+] Android Security
+    - APK static analysis
+    - Manifest inspection
+    - Permission abuse detection
+    - Attack surface mapping
+
+[+] Network & Infrastructure Security
+    - Packet inspection
+    - Port scanning
+    - Vulnerability enumeration
+    - Secure configuration review
+
+[+] Data & Analytical Security
+    - Structured data reconciliation
+    - Risk pattern modeling
+    - Fraud analytics fundamentals
+    - Advanced Excel & Python analysis
+```
+
+---
+
+# `mrhackeric@github:~$ tech_stack --load`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-00FF41?style=for-the-badge&logo=docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Wireshark-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BurpSuite-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android_Security-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-00FF41?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🧠 About Me
-
-Cybersecurity professional focused on defensive security, Android attack surface analysis, threat detection, and system resilience.
-
-I build tools.  
-I inspect logs.  
-I analyze traffic.  
-I break assumptions before attackers do.
-
-🌍 Based in Nairobi | Available for international remote roles  
-
----
-
-## 📊 GitHub Intelligence Dashboard
+# `mrhackeric@github:~$ github_stats --live`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrHackeric&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHackeric&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MrHackeric&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 </p>
 
 ---
 
-## 🛡 Core Domains
+# `mrhackeric@github:~$ projects --highlight`
 
-### 🔎 Security Operations (SOC)
-- Log anomaly detection
-- Network packet inspection
-- Incident escalation workflows
-- Vulnerability scanning & enumeration
-- SLA-driven monitoring discipline
+```bash
+[1] Log Anomaly Detection Engine
+    - Python-based log parser
+    - Suspicious activity flagging
+    - Structured SOC reporting output
 
-### 📱 Android Security
-- APK static analysis
-- Permission model auditing
-- Attack surface mapping
-- Secure app architecture review
-- Reverse engineering fundamentals
+[2] Custom Network Recon Toolkit
+    - Port scanner (socket-based)
+    - Service exposure identification
+    - Risk surface assessment
 
-### 🧠 AI Evaluation & Defensive Engineering
-- AI-generated code validation
-- Stack trace analysis
-- Debugging trajectory verification
-- Tool-call efficiency review
+[3] Android Static Security Analyzer
+    - Manifest inspection automation
+    - Permission extraction
+    - Basic vulnerability detection framework
+```
 
 ---
 
-## ⚙️ Technical Arsenal
+# `mrhackeric@github:~$ mindset --print`
+
+```bash
+• Documentation-first engineer
+• Security-before-convenience philosophy
+• Analytical, pattern-driven thinker
+• Remote collaboration disciplined
+• Continuous learning operator
+```
+
+---
+
+# `mrhackeric@github:~$ connect --secure-channel`
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Android_Security-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
-</p>
+<a href="https://instagram.com/YOUR-LINK">
+<img src="https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black"/>
+</a>
 
----
+<a href="https://facebook.com/YOUR-LINK">
+<img src="https://img.shields.io/badge/Facebook-00FF41?style=for-the-badge&logo=facebook&logoColor=black"/>
+</a>
 
-## 🔥 Featured Projects
+<a href="https://tiktok.com/@YOUR-LINK">
+<img src="https://img.shields.io/badge/TikTok-00FF41?style=for-the-badge&logo=tiktok&logoColor=black"/>
+</a>
 
-### 🔍 Log Anomaly Detection Engine
-Python-based structured log parser with:
-- Pattern recognition
-- Suspicious behavior flagging
-- Structured output reporting
+<a href="https://whatsapp.com/channel/YOUR-LINK">
+<img src="https://img.shields.io/badge/WhatsApp_Channel-00FF41?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+</a>
 
-### 🌐 Custom Port Scanner
-Socket-based reconnaissance tool for:
-- Port enumeration
-- Service exposure detection
-- Risk surface analysis
-
-### 📱 Android Security Toolkit (Active Development)
-- Manifest inspection
-- Permission extraction
-- Static vulnerability flagging
-
----
-
-## 🌍 Remote-Ready Engineering
-
-✔ Strong written technical communication  
-✔ Documentation-first workflow  
-✔ Independent execution discipline  
-✔ Clean Git hygiene  
-✔ Time-zone flexibility  
-
----
-
-## 🏆 Credentials
-
-- ISC² Certified in Cybersecurity (CC)
-- Huawei ICT Global Finalist
-- Cloud Security Foundations
-
----
-
-## 📬 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOURPROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mrhackeric@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=120&section=footer"/>
 </p>
+
+```
