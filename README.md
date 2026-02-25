@@ -1,31 +1,129 @@
-# Mr. Hackeric's Cybersecurity Corner 👨‍💻🔒
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Karimi+Muriithi+Eric;Cybersecurity+Analyst;SOC+%7C+Android+Security+%7C+Threat+Detection;Defensive+Security+Engineer;Open+to+International+Remote+Roles" />
+</p>
 
-## Welcome to the World of Cybersecurity Excellence! 🌐🛡️
+---
 
-### Hey there! 👋 I'm Mr. Hackeric, your friendly neighborhood cybersecurity enthusiast, and I'm thrilled to welcome you to my cybersecurity corner. 🚀
+## 🧠 About Me
 
-#### Who Am I? 🕵️‍♂️
+Cybersecurity professional focused on defensive security, Android attack surface analysis, threat detection, and system resilience.
 
-I'm a passionate advocate for digital security and a firm believer in the power of technology to shape a safer online world. 🌐💼 With years of experience in the ever-evolving field of cybersecurity, I've dedicated myself to understanding, exploring, and mastering the art of protecting digital landscapes. 🌐🛑
+I build tools.  
+I inspect logs.  
+I analyze traffic.  
+I break assumptions before attackers do.
 
-#### What Drives Me? 💡🔐
+🌍 Based in Nairobi | Available for international remote roles  
 
-My journey in the realm of cybersecurity began with an insatiable curiosity about how things work in the digital world and a burning desire to safeguard the online spaces we inhabit. 💻🔍 The thrill of solving complex puzzles, unraveling malicious codes, and fortifying digital fortresses keeps me fueled and excited every single day. 🚀🛡️
+---
 
-#### Expertise 💼🔬
+## 📊 GitHub Intelligence Dashboard
 
-- **Penetration Testing**: I specialize in uncovering vulnerabilities before the bad actors do. 🔍💣
-- **Incident Response**: Rapid and effective responses to cyber threats are my forte. ⚔️🚨
-- **Security Audits**: I meticulously assess and enhance digital security postures. 🛡️🔒
-- **Cryptographic Wizardry**: I speak the language of algorithms and keys. 🔑🔐
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-#### Let's Connect! 🌐🤝
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and anyone interested in the digital defense realm. Feel free to reach out:
+---
 
-- 🐦 Twitter: [@MrHackeric](https://twitter.com/MrHackeric)
-- 💼 LinkedIn: [Mr. Hackeric](https://www.linkedin.com/in/MrHackeric/)
+## 🛡 Core Domains
 
-#### Join the Cybersecurity Journey! 🚀🌐
+### 🔎 Security Operations (SOC)
+- Log anomaly detection
+- Network packet inspection
+- Incident escalation workflows
+- Vulnerability scanning & enumeration
+- SLA-driven monitoring discipline
 
-Together, let's navigate the ever-changing landscapes of cybersecurity, share knowledge, and make the digital world a safer place for everyone. 👨‍💻🛡️ Stay secure, stay curious! 🔒🔍
+### 📱 Android Security
+- APK static analysis
+- Permission model auditing
+- Attack surface mapping
+- Secure app architecture review
+- Reverse engineering fundamentals
+
+### 🧠 AI Evaluation & Defensive Engineering
+- AI-generated code validation
+- Stack trace analysis
+- Debugging trajectory verification
+- Tool-call efficiency review
+
+---
+
+## ⚙️ Technical Arsenal
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Android_Security-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🔍 Log Anomaly Detection Engine
+Python-based structured log parser with:
+- Pattern recognition
+- Suspicious behavior flagging
+- Structured output reporting
+
+### 🌐 Custom Port Scanner
+Socket-based reconnaissance tool for:
+- Port enumeration
+- Service exposure detection
+- Risk surface analysis
+
+### 📱 Android Security Toolkit (Active Development)
+- Manifest inspection
+- Permission extraction
+- Static vulnerability flagging
+
+---
+
+## 🌍 Remote-Ready Engineering
+
+✔ Strong written technical communication  
+✔ Documentation-first workflow  
+✔ Independent execution discipline  
+✔ Clean Git hygiene  
+✔ Time-zone flexibility  
+
+---
+
+## 🏆 Credentials
+
+- ISC² Certified in Cybersecurity (CC)
+- Huawei ICT Global Finalist
+- Cloud Security Foundations
+
+---
+
+## 📬 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOURPROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mrhackeric@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
