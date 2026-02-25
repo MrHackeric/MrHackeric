@@ -1,4 +1,3 @@
-````markdown
 <!-- MATRIX RAIN BACKGROUND HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=mrhackeric@offsec:~$+whoami;Karimi+Muriithi+Eric;Offensive+Security+Operator;Adversarial+Simulation+%7C+Red+Team+Mindset;Attack+Surface+Researcher" />
@@ -147,5 +146,3 @@ WhatsApp  : https://whatsapp.com/channel/YOUR-LINK
 █   Attack Surface Awareness: HIGH                                   █
 ██████████████████████████████████████████████████████████████████████
 </pre>
-
-```
