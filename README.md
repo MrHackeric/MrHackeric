@@ -6,6 +6,20 @@
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Offensive_Security-Active-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Red_Team-Mindset-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android_Security-Research-00FF88?style=for-the-badge&logo=android&logoColor=black"/>
+<img src="https://img.shields.io/badge/Recon-Enumeration-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability_Discovery-Focused-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Operator-00FF88?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-Scripting-00FF88?style=for-the-badge&logo=python&logoColor=black"/>
+
+</p>
+
+---
+
 ```bash
 mrhackeric@offsec:~$ whoami
 ```
@@ -15,11 +29,24 @@ BSc Computer Science
 ISC² Certified in Cybersecurity (CC)  
 Huawei ICT Global Finalist  
 
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ISC²-CC_Certified-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cisco-Cyber_Threat_Management-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cisco-Endpoint_Security-00FF88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cisco-Security_%26_Connectivity-00FF88?style=flat-square"/>
+
+</p>
+
+---
+
 Focus:
-- Reconnaissance & Enumeration
-- Android Static Security Analysis
-- Vulnerability Discovery
-- Adversarial Simulation
+- Reconnaissance & Enumeration  
+- Android Static Security Analysis  
+- Vulnerability Discovery  
+- Adversarial Simulation  
 
 ---
 
@@ -46,11 +73,20 @@ mrhackeric@offsec:~$ contributions
 mrhackeric@offsec:~$ connect
 ```
 
-LinkedIn: https://linkedin.com/in/YOUR-LINK  
-Instagram: https://instagram.com/YOUR-LINK  
-Facebook: https://facebook.com/YOUR-LINK  
-TikTok: https://tiktok.com/@YOUR-LINK  
-WhatsApp Channel: https://whatsapp.com/channel/YOUR-LINK  
+LinkedIn: https://linkedin.com/in/karimi-muriithi-eric/  
+Instagram: https://instagram.com/mr.hackeric  
+WhatsApp Channel: https://whatsapp.com/channel/0029Vaf3AUK2ZjCikwVJ4s0d  
+
+---
+
+```bash
+mrhackeric@offsec:~$ system_status
+```
+
+• Offensive Mode: ACTIVE  
+• Adversarial Thinking: ENABLED  
+• Continuous Learning: ON  
+• Remote Collaboration: READY  
 
 ---
 
