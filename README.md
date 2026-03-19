@@ -33,32 +33,6 @@
 ---
 
 <!-- ████████████████████████████████████████████████████ -->
-<!--                   TERMINAL                          -->
-<!-- ████████████████████████████████████████████████████ -->
-
-```bash
-┌──(mrhackeric㉿hackeric-lab)-[~]
-└─$ whoami
-  Karimi Muriithi Eric
-  Software Engineer · Security Analyst · Data Engineer
-
-┌──(mrhackeric㉿hackeric-lab)-[~]
-└─$ cat /etc/profile.d/focus.sh
-  → Engineering resilient, secure backend systems & APIs
-  → Vulnerability assessment, penetration testing & threat analysis
-  → Automating humanitarian data collection at field scale
-  → Building open-source tools for real-world impact
-
-┌──(mrhackeric㉿hackeric-lab)-[~]
-└─$ systemctl status career
-  ● career.service — MrHackeric Professional Status
-     Loaded: active (running)
-     Status: Open to security roles · data engineering · OSS collaboration
-```
-
----
-
-<!-- ████████████████████████████████████████████████████ -->
 <!--                   ABOUT ME                          -->
 <!-- ████████████████████████████████████████████████████ -->
 
