@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1400&color=00FF88&background=00000000&center=true&vCenter=true&width=700&lines=Building+secure+systems+from+the+ground+up;Penetration+Tester+%26+Vulnerability+Analyst;Data+Engineer+%E2%80%94+Field+to+Cloud;API+Architect+%26+Backend+Developer;Founder+%E2%80%94+Hackeric+LAB+(2%2C000%2B+members)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1400&color=00FF88&background=00000000&center=true&vCenter=true&width=700&lines=Penetration+Tester+%26+Vulnerability+Analyst;Data+Engineer;API+Architect+%26+Backend+Developer;Founder+%E2%80%94+Hackeric+LAB" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -314,34 +314,46 @@ Computer Science graduate building at the intersection of **software engineering
 
 <!-- ████████████████████████████████████████████████████ -->
 <!--               SNAKE ANIMATION                       -->
+<!--                                                     -->
+<!--  ONE-TIME SETUP:                                    -->
+<!--  1. Create .github/workflows/snake.yml in this repo -->
+<!--  2. Paste the workflow below, commit & push          -->
+<!--  3. Go to Actions → "Generate Snake" → Run workflow  -->
+<!--  4. After it completes, the snake renders here live  -->
+<!--                                                     -->
+<!--  ─── snake.yml content ───────────────────────────  -->
+<!--                                                     -->
+<!--  name: Generate Snake                               -->
+<!--  on:                                                -->
+<!--    schedule:                                        -->
+<!--      - cron: "0 0 * * *"                            -->
+<!--    workflow_dispatch:                               -->
+<!--  jobs:                                              -->
+<!--    generate:                                        -->
+<!--      runs-on: ubuntu-latest                         -->
+<!--      permissions:                                   -->
+<!--        contents: write                              -->
+<!--      steps:                                         -->
+<!--        - uses: Platane/snk@v3                       -->
+<!--          with:                                      -->
+<!--            github_user_name: MrHackeric             -->
+<!--            outputs: |                               -->
+<!--              dist/github-contribution-grid-snake-dark.svg?palette=github-dark -->
+<!--        - uses: crazy-max/ghaction-github-pages@v3.1.0 -->
+<!--          with:                                      -->
+<!--            target_branch: output                    -->
+<!--            build_dir: dist                          -->
+<!--          env:                                       -->
+<!--            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} -->
+<!--  ────────────────────────────────────────────────── -->
 <!-- ████████████████████████████████████████████████████ -->
 
-<!-- ┌─ SETUP ─────────────────────────────────────────────┐ -->
-<!-- │ Create .github/workflows/snake.yml with:            │ -->
-<!-- │                                                      │ -->
-<!-- │ name: Generate Snake                                 │ -->
-<!-- │ on:                                                  │ -->
-<!-- │   schedule: [{cron: "0 0 * * *"}]                   │ -->
-<!-- │   workflow_dispatch:                                 │ -->
-<!-- │ jobs:                                                │ -->
-<!-- │   generate:                                          │ -->
-<!-- │     runs-on: ubuntu-latest                           │ -->
-<!-- │     steps:                                           │ -->
-<!-- │       - uses: Platane/snk@v3                         │ -->
-<!-- │         with:                                        │ -->
-<!-- │           github_user_name: MrHackeric               │ -->
-<!-- │           outputs: |                                 │ -->
-<!-- │             dist/snake.svg?palette=github-dark       │ -->
-<!-- │       - uses: crazy-max/ghaction-github-pages@v3.1.0 │ -->
-<!-- │         with:                                        │ -->
-<!-- │           target_branch: output                      │ -->
-<!-- │           build_dir: dist                            │ -->
-<!-- │         env:                                         │ -->
-<!-- │           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}   │ -->
-<!-- └──────────────────────────────────────────────────── ┘ -->
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MrHackeric/MrHackeric/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/MrHackeric/MrHackeric/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution grid snake animation"
+    width="100%"
+  />
 </div>
 
 ---
